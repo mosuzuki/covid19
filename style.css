@@ -10,7 +10,8 @@ body {
 #main {
   box-sizing: border-box;
   margin-left: 220px;
-  padding: 20px 40px;
+  margin-right: 220px;
+padding: 20px 40px;
 }
 #sub {
   box-sizing: border-box;
